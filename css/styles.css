@@ -1,0 +1,117 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Light.ttf");
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Open Sans Bold";
+  src: url("../fonts/OpenSans-Bold.ttf"); }
+
+@font-face {
+  font-family: "Open Sans Italic";
+  src: url("../fonts/OpenSans-Italic.ttf"); }
+
+@font-face {
+  font-family: "Open Sans Condensed";
+  src: url("../fonts/OpenSansCondensed-Light.ttf");
+  font-weight: normal; }
+
+@font-face {
+  font-family: "Open Sans Condensed Bold";
+  src: url("../fonts/OpenSansCondensed-Bold.ttf"); }
+
+@font-face {
+  font-family: "Open Sans Condensed Italic";
+  src: url("../fonts/OpenSansCondensed-Italic.ttf"); }
+
+@font-face {
+  font-family: "Caveat";
+  src: url("../fonts/Caveat.ttf");
+  font-style: normal; }
+
+body {
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fff5f5; }
+
+.color-bg {
+  background-color: #fff5f5; }
+
+.navbar-dark {
+  background-color: #5A5377;
+  color: #F9F5FF;
+  text-transform: lowercase; }
+
+.jumbotron {
+  background-color: #fff5f5;
+  color: #5A5377;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: lowercase;
+  padding-bottom: 0px;
+  margin-bottom: 0px; }
+
+.jumbotron-home {
+  background-image: url(/images/jumbotron.jpg);
+  background-size: cover;
+  height: 100%;
+  min-height: 300px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase; }
+
+.text-shadow-accent {
+  text-shadow: 2px 2px #DBC554; }
+
+.text-shadow-primary {
+  text-shadow: 2px 2px #5A5377; }
+
+.text-shadow-dark {
+  text-shadow: 2px 2px #28262C; }
+
+.lead {
+  font-family: 'Open Sans Condensed', sans-serif; }
+
+.content {
+  padding-bottom: 30px;
+  border-bottom: #F9F5FF solid 1px; }
+
+.footer {
+  background-color: #5A5377;
+  color: white; }
+
+.footer-title {
+  border-right: 3px solid #F9F5FF; }
+
+.footer-logo {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2.5em; }
+
+.thumbnail {
+  max-width: 250px; }
+
+.board-name {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2em; }
+
+.board-position {
+  font-family: 'Open Sans Condensed Italic', sans-serif;
+  font-size: 2em;
+  color: #DBC554; }
+
+.board-background {
+  background-color: #fff5f5;
+  padding: 30px;
+  border: 3px solid #F9F5FF; }
+
+.board-item {
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 35px;
+  padding-bottom: 35px;
+  border-bottom: 1px solid #aaa; }
+
+.values-image {
+  max-width: 300px; }
+
+.about-head {
+  text-transform: lowercase;
+  color: #5A5377; }
